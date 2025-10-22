@@ -1,5 +1,5 @@
 # 💫 About Me:
-🧑🏻 Hello i'am Abimanyu Priyo Widagdo, you can call me Abim<br>📌 workout is my hobby<br>💰 i'am learn crypto currency and blockchain
+🧑🏻 Hello i'am Abimanyu Priyo Widagdo, you can call me Abim<br>💰 i'am learn crypto currency and blockchain
 
 
 ## 🌐 Socials:
