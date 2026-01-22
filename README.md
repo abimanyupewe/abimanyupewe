@@ -1,7 +1,7 @@
 
 # Hi, I'm Abimanyu Priyo Widagdo
 
-You can call me **Abim**. I am an Informatics Engineering student with a strong interest in **Blockchain**, **Big Data**, and **Fullstack Development**.
+You can call me **Abim**. I am an Computer Science student with a strong interest in **Fullstack Development**, I am learn **Blockchain**, **Big Data**, **Deep Learning**
 
 Currently exploring Cryptocurrency, Solidity, and Smart Contract development while refining my skills in Web and Mobile engineering.
 
