@@ -1,14 +1,15 @@
 
-# Hi, I'm Abimanyu Priyo Widagdo
+<div align="center">
 
-You can call me **Abim**. I am an Computer Science student with a strong interest in **Fullstack Development**, I am learn **Blockchain**, **Big Data**, **Deep Learning**
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1000&color=FFFFFF&center=true&vCenter=true&random=false&width=550&lines=Hi%2C+I'm+Abimanyu+Priyo+Widagdo;Fullstack+Developer;Blockchain+Explorer;Building+things+that+matter.)](https://git.io/typing-svg)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/abimanyu-priyo-widagdo) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/hoohbim_) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?style=flat-square&logo=TikTok&logoColor=white)](https://tiktok.com/@abimanyupriyowidagdo)
+
+</div>
+
+You can call me **Abim**. I am a Computer Science student with a strong interest in **Fullstack Development**, currently learning **Blockchain**, **Big Data**, and **Deep Learning**.
 
 Currently exploring Cryptocurrency, Solidity, and Smart Contract development while refining my skills in Web and Mobile engineering.
-
----
-
-### Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/abimanyu-priyo-widagdo) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/hoohbim_) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?style=flat-square&logo=TikTok&logoColor=white)](https://tiktok.com/@abimanyupriyowidagdo)
 
 ---
 
@@ -31,7 +32,59 @@ Currently exploring Cryptocurrency, Solidity, and Smart Contract development whi
 
 ---
 
-# GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=abimanyupewe&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=abimanyupewe&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=abimanyupewe&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+### GitHub Stats
+<div align="center">
+
+![](https://github-readme-stats.vercel.app/api?username=abimanyupewe&theme=dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&icon_color=FFFFFF&title_color=FFFFFF&text_color=B0B0B0&bg_color=0D1117)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=abimanyupewe&theme=dark&hide_border=true&background=0D1117&stroke=1A1A2E&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&sideLabels=B0B0B0&currStreakNum=FFFFFF&sideNums=B0B0B0&dates=6E6E6E)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=abimanyupewe&theme=dark&hide_border=true&layout=compact&title_color=FFFFFF&text_color=B0B0B0&bg_color=0D1117)
+
+</div>
+
+---
+
+### Trophies
+<div align="center">
+
+![](https://github-profile-trophy.vercel.app/?username=abimanyupewe&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=8)
+
+</div>
+
+---
+
+### Snake Eating My Contributions
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abimanyupewe/abimanyupewe/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abimanyupewe/abimanyupewe/output/github-snake.svg" />
+  <img alt="snake animation" src="https://raw.githubusercontent.com/abimanyupewe/abimanyupewe/output/github-snake.svg" />
+</picture>
+
+</div>
+
+---
+
+### Contribution Graph
+<div align="center">
+
+![](https://github-readme-activity-graph.vercel.app/graph?username=abimanyupewe&bg_color=0D1117&color=B0B0B0&line=FFFFFF&point=FFFFFF&area_color=FFFFFF&area=true&hide_border=true&custom_title=Activity)
+
+</div>
+
+---
+
+### Random Dev Quote
+<div align="center">
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
+</div>
+
+---
+
+<div align="center">
+
+![](https://komarev.com/ghpvc/?username=abimanyupewe&color=333333&style=flat-square&label=profile+views)
+
+</div>
